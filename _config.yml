@@ -98,3 +98,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+include:
+  - assets
