@@ -5,4 +5,4 @@ permalink: /
 
 {% include landing.html %}
 
-{% include projects/index.html %}
+{% include project-index.html %}
