@@ -1,31 +1,33 @@
 - title: Senior Game Engineer | Dusk Wave Arts, LLC
   from: 2022
   to: 2025
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  
+                Spearheaded research and development efforts on emerging Unity tech like DOTS, SRP, and 
+                Netcode for GameObjects. 
+                Streamlined workflow for internal distribution and testing with build automation 
+                and CI/CD practices. 
+                Worked on platform integration with Steam and Epic Games Store to prepare for release and live ops.
 
 - title: Game Engineer | Dusk Wave Arts, LLC
   from: 2017
   to: 2022
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  
+                Wrote and maintained several internal Unity packages.
+                Established coding and source control best practices for the engineering team.
+                Produced various mechanics and systems prototypes, working closely with design and narrative teams.
 
 - title: Game Developer | Synergy88 Digital, Inc.
   from: 2014
   to: 2017
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  
+                Led development on several projects, and was principal author for their code architectures.
+                Worked closely with art and animation teams on establishing a production pipeline geared 
+                towards game development.
+                Tasked with writing various components, features, and gameplay systems, following design 
+                specifications.
 
 - title: Student | Ateneo de Manila University
   from: 2009
   to: 2013
-  description: Graduated in October 2013 with a Bachelor's degree in Computer Science, Specialization in Interactive Multimedia.
+  description:  Graduated in October 2013 with a Bachelor of Science degree in Computer Science, Specialization in 
+                Interactive Multimedia.

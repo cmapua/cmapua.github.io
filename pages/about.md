@@ -7,7 +7,7 @@ weight: 3
 
 # About Me
 
-I have over **10 years of professional experience** in game development, specializing in **Unity** and **C#**. My core competencies include **gameplay**, **tools**, **traditional artificial intelligence**, **shader**, and **UI/UX programming**. Aside from those, I have also dabbled in various other roles such as game design, asset production, quality assurance, and project management.
+I am a programmer with over **10 years of professional experience** in game development, specializing in **Unity** and **C#**. My core competencies include **gameplay**, **tools**, **traditional artificial intelligence**, **shader**, and **UI/UX programming**. Aside from those, I have also dabbled in various other roles such as game design, asset production, quality assurance, and project management.
 
 # Skill Set
 
