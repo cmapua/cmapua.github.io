@@ -14,6 +14,7 @@ Welcome to a world where magic runs deeper than blood. Welcome to Spellstrike.
 <p class="text-center">
 {% include elements/button.html link="https://web.archive.org/web/20171231052648/http://spellstrikegame.com/" text="Website (archive)" %}
 {% include elements/button.html link="https://www.youtube.com/channel/UC2JkgIeZ0Xig-Q1oMkzZmOA" text="YouTube" %}
+{% include elements/button.html link="https://www.facebook.com/spellstrike" text="Facebook" %}
 {% include elements/button.html link="https://x.com/spellstrike" text="X/Twitter" %}
 </p>
 
