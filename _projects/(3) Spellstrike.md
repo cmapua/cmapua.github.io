@@ -3,6 +3,8 @@ name: Spellstrike
 tools: [C#, Unity]
 static_image: image3.png
 description: Spellstrike is a fast-paced action brawler set in the fantasy world of Ethir.
+date_start: 2016
+date_end: 2017
 ---
 
 # Spellstrike
