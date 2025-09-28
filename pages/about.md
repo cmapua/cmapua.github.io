@@ -11,7 +11,7 @@ I have over **10 years of professional experience** in game development, special
 
 # Skill Set
 
-- **Game Engines:** `Unity3D`, `Unreal Engine`, `Godot Engine`
+- **Game Engines:** `Unity3D`, `Godot Engine`, `Unreal Engine`
 - **Programming Languages:** `C#`, `C/C++`, `Python`, `GDScript`, `ShaderLab`, `Cg/HLSL`
 - **Source Control:** `Git`, `Plastic SCM`, `Microsoft Azure DevOps`
 - **IDEs:** `JetBrains Rider`, `Microsoft Visual Studio`, `Visual Studio Code`
@@ -19,9 +19,9 @@ I have over **10 years of professional experience** in game development, special
 ## Other Skills
 
 - **2D/3D Software:** Blender, Krita, Inkscape, Substance Painter/Designer
-- **Other Software:** FMOD, Articy:draft, Jenkins
 - **Frameworks and APIs:** Steamworks, Epic Online Services
 - **Communication and Productivity Tools:** Slack, Notion, ClickUp, Trello, Microsoft Teams, Miro, Coda, Obsidian
+- **Other Software:** FMOD, Articy:draft, Jenkins
 
 # Work and Education
 

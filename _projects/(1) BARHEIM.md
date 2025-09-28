@@ -5,14 +5,14 @@ static_image: image1.jpg
 description: BARHEIM is a single-player, 3D Time Management Tower Defense where players experience the chaos of mixing drinks and maintaining a bar while defending themselves from thirsty Vikings!
 ---
 
+# About
+
+_BARHEIM_ is a single-player, 3D Time Management Tower Defense where players experience the chaos of mixing drinks and maintaining a bar while defending themselves from thirsty Vikings! Become the starry-eyed bartender of the finest tavern in the nine realms—BARHEIM! Learn different combinations of brews. Acquire device upgrades to tip the scales and survive even the wildest rushes of Viking hordes! Load your crafted drinks onto the Brewcannøn and defend yourself from charging armies commanded by the vengeful Queen Yrsa and her chieftains.
+
 <p class="text-center">
 {% include elements/button.html link="https://store.steampowered.com/app/2980970/BARHEIM/" text="Steam" %}
 {% include elements/button.html link="https://duskwavearts.com/barheim/" text="Website" %}
 </p>
-
-# About
-
-_BARHEIM_ is a single-player, 3D Time Management Tower Defense where players experience the chaos of mixing drinks and maintaining a bar while defending themselves from thirsty Vikings! Become the starry-eyed bartender of the finest tavern in the nine realms—BARHEIM! Learn different combinations of brews. Acquire device upgrades to tip the scales and survive even the wildest rushes of Viking hordes! Load your crafted drinks onto the Brewcannøn and defend yourself from charging armies commanded by the vengeful Queen Yrsa and her chieftains.
 
 {% include elements/video.html id="fZHvytFz5vM" %}
 
