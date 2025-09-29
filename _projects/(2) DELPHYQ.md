@@ -7,7 +7,7 @@ date_start: 2017
 date_end: 2021
 ---
 
-# About
+# Delpyq
 
 _Delphyq_ is a real-time tactics game, one that puts you in the role of a mastermind in command of an elite group of combatants known as the Operatives. Every move, every decision, every action, and reaction you make will influence and decide the outcome of each encounter you will face along the way.
 
