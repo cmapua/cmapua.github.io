@@ -7,21 +7,23 @@ weight: 3
 
 # About Me
 
-I am a programmer with over **10 years of professional experience** in game development, specializing in **Unity** and **C#**. My core competencies include **gameplay**, **tools**, **traditional artificial intelligence**, **shader**, and **UI/UX programming**. Aside from those, I have also dabbled in various other roles such as game design, asset production, quality assurance, and project management.
+I’m a programmer with over 10 years of professional experience in game development, specializing in **Unity** and **C#**. My expertise covers **gameplay systems, tools development, AI, shaders, and UI/UX programming**, and I bring a strong track record of delivering engaging, polished experiences.
+
+Beyond programming, I’ve gained cross-disciplinary experience in **game design, asset production, QA, and project management**. This versatility helps me collaborate effectively with teams across all stages of development.
 
 # Skill Set
 
-- **Game Engines:** `Unity3D`, `Godot Engine`, `Unreal Engine`
-- **Programming Languages:** `C#`, `C/C++`, `Python`, `GDScript`, `ShaderLab`, `Cg/HLSL`
-- **Source Control:** `Git`, `Plastic SCM`, `Microsoft Azure DevOps`
-- **IDEs:** `JetBrains Rider`, `Microsoft Visual Studio`, `Visual Studio Code`
+- **Game Engines:** Unity, Godot, Unreal Engine
+- **Programming Languages:** C#, C/C++, Python, GDScript, ShaderLab, HLSL/Cg
+- **Source Control and Build Systems:** Git, Plastic SCM, Azure DevOps, Jenkins
+- **IDEs:** JetBrains Rider, Visual Studio, VS Code
 
 ## Other Skills
 
-- **2D/3D Software:** Blender, Krita, Inkscape, Substance Painter/Designer
+- **Art and Design Software:** Blender, Krita, Inkscape, Substance Painter/Designer
+- **Collaboration and Productivity:** Slack, Notion, ClickUp, Trello, Teams, Miro, Coda, Obsidian
+- **Tools and Middleware:** FMOD, Articy:draft
 - **Frameworks and APIs:** Steamworks, Epic Online Services
-- **Communication and Productivity Tools:** Slack, Notion, ClickUp, Trello, Microsoft Teams, Miro, Coda, Obsidian
-- **Other Software:** FMOD, Articy:draft, Jenkins
 
 # Work and Education
 
