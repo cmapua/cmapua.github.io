@@ -7,3 +7,7 @@ external_url: https://youtu.be/hjEldtYyhbY
 date_start: 2014
 date_end: 2014
 ---
+
+# Contributions
+
+Responsible for VR SDK integration, scene production, prototyping, and gameplay programming.
