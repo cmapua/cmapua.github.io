@@ -1,6 +1,6 @@
 ---
 name: DELPHYQ
-tools: [C#, Unity]
+tools: [C#, Unity, PC]
 static_image: image6.png
 description: Delphyq offers a unique Real-time Strategy & Tactics experience, that puts you in the seat of the "Mastermind.”
 date_start: 2017

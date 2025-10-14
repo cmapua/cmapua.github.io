@@ -1,6 +1,6 @@
 ---
 name: Barheim
-tools: [C#, Unity, Steamworks]
+tools: [C#, Unity, PC, Steam Deck]
 static_image: image1.jpg
 description: Barheim is a single-player, 3D Time Management Tower Defense where players experience the chaos of mixing drinks and maintaining a bar while defending themselves from thirsty Vikings!
 date_start: 2023
@@ -14,6 +14,7 @@ _Barheim_ is a single-player, 3D Time Management Tower Defense where players exp
 <p class="text-center">
 {% include elements/button.html link="https://store.steampowered.com/app/2980970/BARHEIM/" text="Steam" %}
 {% include elements/button.html link="https://duskwavearts.com/barheim/" text="Website" %}
+{% include elements/button.html link="https://www.youtube.com/@DuskWaveArts" text="YouTube" %}
 </p>
 
 {% include elements/video.html id="fZHvytFz5vM" %}
