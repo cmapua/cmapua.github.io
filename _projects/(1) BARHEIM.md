@@ -25,4 +25,8 @@ _Barheim_ is a single-player, 3D Time Management Tower Defense where players exp
 - Responsible for initial prototype, core architecture, gameplay, unit testing, UI, tools, and audio integration.
 - Worked on Steamworks and Epic Online Services integration, Steam Deck verification, CI/CD and build automation.
 - Worked with the narrative team on Articy integration, dialogue system, and narrative tools.
-- Experimented on localization tech.
+- Explored and integrated I2 Localization to lay the groundwork for future multi-language support.
+
+![alt text]({{ site.baseurl }}\assets\img\Unity_9sYGILcsV3.gif "I2 Localization")
+
+> Please note: languages other than English have been auto-translated and may be wrong or inaccurate. They are for development and testing purposes only.
