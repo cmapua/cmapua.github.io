@@ -35,6 +35,11 @@ _Greenlit in 2 Weeks,_ Steam Greenlight
 # Contributions
 
 - Developed a comprehensive animation-driven and physics-based character controller that can be configured for any number of playable characters.
+
+{% include twitterPlayer.html id="spellstrike/status/909056843103825926" %}
+
+{% include twitterPlayer.html id="spellstrike/status/905475933880147968" %}
+
 - Worked with designers to develop a highly flexible, extensible, and designer-friendly character ability system.
 - Authored automation and quality-of-life editor tools for design and production.
 - Assisted with production of marketing materials by implementing a mock battle scene in-engine. The end result is the following:
