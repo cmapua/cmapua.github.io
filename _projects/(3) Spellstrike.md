@@ -36,9 +36,9 @@ _Greenlit in 2 Weeks,_ Steam Greenlight
 
 - Developed a comprehensive animation-driven and physics-based character controller that can be configured for any number of playable characters.
 
-{% include twitterPlayer.html id="spellstrike/status/909056843103825926" %}
+{% include videoPlayer.html id="spellstrike1.mp4" %}
 
-{% include twitterPlayer.html id="spellstrike/status/905475933880147968" %}
+{% include videoPlayer.html id="spellstrike2.mp4" %}
 
 - Worked with designers to develop a highly flexible, extensible, and designer-friendly character ability system.
 - Authored automation and quality-of-life editor tools for design and production.

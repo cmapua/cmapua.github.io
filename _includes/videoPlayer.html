@@ -1,20 +1,20 @@
+<!--
 <div class="embed-container">
-  
+
   <iframe
       src="{{ site.baseurl }}\assets\video\{{ include.id }}"
-      width="700"
-      height="600"
+      width="{{ include.width | default: '600' }}"
+      height="{{ include.height | default: '480' }}"
       frameborder="0"
       autoplay="false"
       allowfullscreen="true">
   </iframe>
   
-
-  <!--
-  <video 
-    controls autoplay=false loop=false muted=true>
-    <source src="{{ site.baseurl }}\assets\video\{{ include.id }}">
-  </video>
-  -->
 </div>
+-->
 
+<div style="display:flex; justify-content:center; padding:1rem 0;">
+  <video controls>
+      <source src="{{ site.baseurl }}\assets\video\{{ include.id }}">
+  </video>
+</div>
