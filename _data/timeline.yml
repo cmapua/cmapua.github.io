@@ -2,29 +2,24 @@
   from: 2022
   to: 2025
   description:  
-                Spearheaded research and development efforts on emerging Unity tech like DOTS, SRP, and 
-                Netcode for GameObjects. 
-                Streamlined workflow for internal distribution and testing with build automation 
-                and CI/CD practices. 
-                Worked on platform integration with Steam and Epic Games Store to prepare for release and live ops.
+                Served as Systems, Gameplay, Tools, and Build Engineer on Barheim, as Programming Lead on an unannounced multiplayer project, and played a support role for Stuck in the Present.
+                Spearheaded research and development efforts on Unity tech like DOTS, SRP, and Netcode for GameObjects to bolster institutional knowledge. 
+                Streamlined workflow for internal distribution and testing with build automation and CI/CD using Jenkins and Steam, leading to faster iteration times and improved bug report quality.
 
 - title: Game Engineer | Dusk Wave Arts, LLC
   from: 2017
   to: 2022
   description:  
-                Wrote and maintained several internal Unity packages.
-                Established coding and source control best practices for the engineering team.
-                Produced various mechanics and systems prototypes, working closely with design and narrative teams.
+                Core team member on Delphyq, contributing to systems, gameplay, and tools engineering, and collaborating closely with design and narrative teams.
+                Wrote and maintained multiple internal Unity packages to streamline development, cut redundant code, and accelerate feature delivery.
+                Aided in establishing source control and coding standards, improving code consistency and collaboration within the engineering team.
 
 - title: Game Developer | Synergy88 Digital, Inc.
   from: 2014
   to: 2017
   description:  
-                Led development on several projects, and was principal author for their code architectures.
-                Worked closely with art and animation teams on establishing a production pipeline geared 
-                towards game development.
-                Tasked with writing various components, features, and gameplay systems, following design 
-                specifications.
+                Took on multiple roles such as Programming Lead for Blade of the Maiden and Gameplay and Tools Engineer for Spellstrike and Kuna, among other projects.
+                Collaborated with art and animation teams from non-game backgrounds to establish an efficient production pipeline geared towards game development.
 
 - title: Student | Ateneo de Manila University
   from: 2009
