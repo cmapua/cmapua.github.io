@@ -23,6 +23,9 @@ _Barheim_ is a single-player, 3D Time Management Tower Defense where players exp
 
 # Contributions
 - Responsible for initial prototype, core architecture, gameplay, unit testing, UI, tools, and audio integration.
+
+{% include videoPlayer.html id="barheim-highlight-tool.mp4" %}
+
 - Worked on Steamworks and Epic Online Services integration, CI/CD and build automation.
 - Worked with the narrative team on Articy integration, dialogue system, and narrative tools.
 - Leveraged Unity's Test Framework for automated testing to ensure gameplay features work as intended and minimize regressions, as well as to decrease strain on QA.
