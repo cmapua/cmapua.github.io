@@ -1,6 +1,6 @@
 ---
 name: Stuck in the Present
-tools: [C#, Unity, PC]
+tools: [Unity, PC]
 static_image: sitp.jpg
 description: Stuck in the Present is a 3D side-scrolling psychological horror title where two friends relive painful memories within the uncanny depths of twisting subway stations in a large, unfamiliar city.
 date_start: 2022

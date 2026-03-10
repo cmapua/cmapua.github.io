@@ -1,6 +1,6 @@
 ---
 name: Blade of the Maiden
-tools: [C#, Unity, Mobile]
+tools: [Unity, Mobile]
 static_image: image4.png
 description: You are The Maiden — a warrior-queen wielding a legendary sword — on an epic journey to free the realm from the dark sorceress and her minions that had enslaved the people. 
 date_start: 2015
